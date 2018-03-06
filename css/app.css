@@ -1,0 +1,17 @@
+.card .media .mr-3{
+	background: #4DD0E1;
+	font-size: 2em;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	color: #ffffff;
+	margin-left: 5px;
+}
+
+.card{
+	margin-top: 10px;
+}
+
+button{
+	margin-left: 5px;
+}
